@@ -1,7 +1,4 @@
-# POKE-BOT
- PokeTwo Discord autocatcher
-=================================================================================================
-AutoCatcher/Farmer for the Poketwo discord bot.
+# PokeTwo Discord autocatcher
 =================================================================================================
 Includes a spam only code and a farm + spam code. 
 
