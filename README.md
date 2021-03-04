@@ -1,5 +1,5 @@
 # POKE-BOT
-PokeTwo Discord autocatcher
+ PokeTwo Discord autocatcher
 =================================================================================================
 AutoCatcher/Farmer for the Poketwo discord bot.
 =================================================================================================
