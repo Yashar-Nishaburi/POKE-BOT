@@ -1,9 +1,10 @@
 # POKE-BOT
 PokeTwo Discord autocatcher
+=================================================================================================
 AutoCatcher/Farmer for the Poketwo discord bot.
 =================================================================================================
 Includes a spam only code and a farm + spam code. 
-=================================================================================================
+
 Instructions:
 - ID variable in both codes should be replaced with the channel ID where you'd like to farm/spam
 - In both files, Cliend.run line should be filled with the user tokens ( Replacing the ************** )
